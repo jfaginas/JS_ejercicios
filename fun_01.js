@@ -5,7 +5,8 @@
 // sayHello();
 
 function combinarNombres(nombre, apellido) {
-    console.log (nombre + " " + apellido);
+    // console.log (nombre + " " + apellido);
+    console.log(`${nombre} ${apellido}`)
 }
 
-combinarNombres("Jose", "Faginas");  
+combinarNombres("Jose", "Faginas");
